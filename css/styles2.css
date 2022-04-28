@@ -1,0 +1,15 @@
+ section{ 
+     background-color: black; 
+     width: 90%;
+ }
+
+.contacts h2{ 
+    font-size: 50px; 
+    text-align: center; 
+    color: aqua; 
+    text-shadow: 2px 2px blue; 
+    font-weight: bolder;
+}  
+ p{ 
+    color: white;
+}

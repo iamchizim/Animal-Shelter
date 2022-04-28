@@ -1,14 +1,47 @@
 *{ 
     margin: 0; 
-    padding: 0;
-} 
+    padding: 0; 
+    box-sizing: border-box;
+}  
+.nav img{ 
+width: 50px; 
+margin-left: 1.5%;
+}
  .nav  h3 { 
     margin-left: 10%; 
         color: orange; 
         text-shadow: 2.5px 2.5px brown; 
         font-weight: bolder; 
-        font-size: 40px;
+        font-size: 40px; 
+        font-family: cursive;
 } 
 .nav li a{ 
-    color: black;
+    color: black; 
+    font-weight: bolder;
+} 
+
+.myBanner{ 
+    background-image: url(../img/30012_hd.jpg);  
+    width: 100%;
+    max-height: 650px; 
+    min-height: 500px; 
+    text-align: center; 
+    
+} 
+.myBanner h2{ 
+    font-size: 70px; 
+    color: chocolate;  
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 3px 3px black;
+} 
+.myBanner p{ 
+    font-size: 25px; 
+    color: white; 
+    text-shadow: 1px 1px black;
+}  
+
+h2{ 
+    font-size: 30px; 
+    text-decoration: underline; 
+    color: aqua;
 }
