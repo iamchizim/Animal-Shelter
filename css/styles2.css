@@ -1,15 +1,88 @@
- section{ 
-     background-color: black; 
-     width: 90%;
- }
+*{ 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box;
+}  
+.nav img{ 
+width: 50px; 
+margin-left: 1.5%;
+}
+ .nav  h3 { 
+    margin-left: 10%; 
+        color: orange; 
+        text-shadow: 2.5px 2.5px brown; 
+        font-weight: bolder; 
+        font-size: 40px; 
+        font-family: cursive;
+} 
+.nav li a{ 
+    color: black; 
+    font-weight: bolder;
+} 
 
 .contacts h2{ 
     font-size: 50px; 
     text-align: center; 
-    color: aqua; 
-    text-shadow: 2px 2px blue; 
+    color: orange; 
+    text-shadow: 2px 2px brown; 
     font-weight: bolder;
 }  
  p{ 
-    color: white;
+    color:white;
+}  
+.email{ 
+    display: inline-flex; 
+    margin-top: 3%;
+}  
+
+.email p { 
+font-size: 25px; 
+margin-left: 3%;
 }
+  .email img{ 
+    width: 50px; 
+    height: 50px;
+} 
+
+.instagram{ 
+    display: inline-flex; 
+    margin-top: 3%;
+}  
+
+.instagram p { 
+font-size: 25px; 
+margin-left: 3%;
+}
+  .instagram img{ 
+    width: 50px; 
+    height: 50px;
+} 
+
+.facebook{ 
+    display: inline-flex; 
+    margin-top: 3%;
+}  
+
+.facebook p { 
+font-size: 25px; 
+margin-left: 3%;
+}
+  .facebook img{ 
+    width: 50px; 
+    height: 50px;
+} 
+
+.phone{ 
+    display: inline-flex; 
+    margin-top: 3%;
+}  
+
+.phone p { 
+font-size: 25px; 
+margin-left: 3%;
+}
+  .phone img{ 
+    width: 50px; 
+    height: 50px;
+}
+

@@ -1,0 +1,21 @@
+*{ 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box;
+}  
+.nav img{ 
+width: 50px; 
+margin-left: 1.5%;
+}
+ .nav  h3 { 
+    margin-left: 10%; 
+        color: orange; 
+        text-shadow: 2.5px 2.5px brown; 
+        font-weight: bolder; 
+        font-size: 40px; 
+        font-family: cursive;
+} 
+.nav li a{ 
+    color: black; 
+    font-weight: bolder;
+} 
