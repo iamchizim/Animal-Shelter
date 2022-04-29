@@ -42,6 +42,16 @@ margin-left: 1.5%;
 
 h2{ 
     font-size: 30px; 
-    text-decoration: underline; 
-    color: aqua;
+    color: chocolate;  
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 3px 3px black; 
+    text-align: center;
+} 
+.available img{ 
+    width: 200px; 
+    min-height: 180px; 
+    max-height: 200px;
+} 
+.available a{ 
+    display: block;
 }
